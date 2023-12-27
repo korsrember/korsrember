@@ -14,9 +14,6 @@
 
 ###
 
-
-###
-
 <p align="left">I'm Kors from Web3<br><br>- 🔭 I’m working as JS warrior in Darknet and sometimes deeper<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I... wait a minute, where did the free time go??</p>
 
 ###
